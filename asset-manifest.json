@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/btr-lif-web/static/css/main.073c9b0a.css",
-    "main.js": "/btr-lif-web/static/js/main.fe8b2230.js",
+    "main.css": "/btr-lif-web/static/css/main.7587aa32.css",
+    "main.js": "/btr-lif-web/static/js/main.b3200716.js",
     "static/js/787.7f6f1182.chunk.js": "/btr-lif-web/static/js/787.7f6f1182.chunk.js",
+    "static/media/btr-lif-transparent.png": "/btr-lif-web/static/media/btr-lif-transparent.fff97545790ed336c147.png",
     "static/media/logo.svg": "/btr-lif-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/btr-lif-web/index.html",
-    "main.073c9b0a.css.map": "/btr-lif-web/static/css/main.073c9b0a.css.map",
-    "main.fe8b2230.js.map": "/btr-lif-web/static/js/main.fe8b2230.js.map",
+    "main.7587aa32.css.map": "/btr-lif-web/static/css/main.7587aa32.css.map",
+    "main.b3200716.js.map": "/btr-lif-web/static/js/main.b3200716.js.map",
     "787.7f6f1182.chunk.js.map": "/btr-lif-web/static/js/787.7f6f1182.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fe8b2230.js"
+    "static/css/main.7587aa32.css",
+    "static/js/main.b3200716.js"
   ]
 }
